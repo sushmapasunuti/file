@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1610354529,,"wq!"
+|2,0,1610355305,,"wq!"
 
 # Search String History (newest to oldest):
 
@@ -25,16 +25,33 @@
 # Registers:
 
 # File marks:
-'0  2  19  ~/tmg/test
-|4,48,2,19,1610354529,"~/tmg/test"
+'0  3  0  ~/rmpl/dad
+|4,48,3,0,1610355305,"~/rmpl/dad"
+'1  2  19  ~/tmg/test
+|4,49,2,19,1610354529,"~/tmg/test"
 
 # Jumplist (newest first):
+-'  3  0  ~/rmpl/dad
+|4,39,3,0,1610355305,"~/rmpl/dad"
+-'  1  0  ~/rmpl/dad
+|4,39,1,0,1610355257,"~/rmpl/dad"
+-'  2  19  ~/tmg/test
+|4,39,2,19,1610354529,"~/tmg/test"
 -'  2  19  ~/tmg/test
 |4,39,2,19,1610354529,"~/tmg/test"
 -'  1  0  ~/tmg/test
 |4,39,1,0,1610354492,"~/tmg/test"
+-'  1  0  ~/tmg/test
+|4,39,1,0,1610354492,"~/tmg/test"
 
 # History of marks within files (newest to oldest):
+
+> ~/rmpl/dad
+	*	1610355300	0
+	"	3	0
+	^	3	0
+	.	2	14
+	+	2	14
 
 > ~/tmg/test
 	*	1610354524	0
